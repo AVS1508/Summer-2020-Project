@@ -1,0 +1,5 @@
+.userImage {
+    display: inline-block;
+    height: 2em;
+    border-radius: 50%;
+}

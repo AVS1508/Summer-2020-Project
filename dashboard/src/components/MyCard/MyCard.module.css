@@ -1,0 +1,11 @@
+.title {
+    text-align: center;
+}
+
+.cardLink {
+    color: #32e0c4 !important;
+}
+
+.cardLink:hover {
+    color: #bbbbbb !important;
+}
